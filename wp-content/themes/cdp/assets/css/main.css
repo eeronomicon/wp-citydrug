@@ -43,7 +43,7 @@ a {
   transition: all 0.2s ease-in 0s;
 }
 a:hover, a:focus {
-  color: #a098ca;
+  color: #fff;
   text-decoration: none;
   background:none;
 }
@@ -143,7 +143,7 @@ h1,h2,h3,h4,h5,h6 {
 .sidebar p a {
   display: block;
   padding: 3px 0;
-  color:#a098ca;
+  color:#fff;
 }
 
 .lyt-frame {
@@ -392,7 +392,7 @@ h1,h2,h3,h4,h5,h6 {
   top: 50%;
   transform: translateY(-50%);
   padding: 0 20%;
-  color: #a098ca;
+  color: #fff;
   line-height: 1.8em;
   font-size: 20px;
   display: block;
@@ -535,8 +535,8 @@ h1,h2,h3,h4,h5,h6 {
   }
 
   #home-ctas .nav a:hover {
-    background:rgba(115, 96, 160, 0.3);
-    border:#A098CA 1px solid;
+    background:rgba(255, 255, 255, 0.3);
+    border:#fff 1px solid;
   }
 
   #home-ctas .nav a span {
@@ -764,7 +764,7 @@ padding: 60px 0;
 
     .btn-cta {
     background-color:#493869;
-    border:#a098ca 1px solid;
+    border:#fff 1px solid;
 font-size: 16px;
     font-family: 'Georgia Bold', 'Times New Regular';
     text-transform: uppercase;
@@ -811,7 +811,7 @@ padding: 12px 30px;
     .sidebar p a {
     display: block;
     padding: 3px 0;
-    color:#a098ca;
+    color:#fff;
     }
 
 
@@ -1040,7 +1040,7 @@ padding-top: 60px;
     top: 50%;
     transform: translateY(-50%);
     padding: 0 20%;
-    color: #a098ca;
+    color: #fff;
     line-height: 1.8em;
     font-size: 20px;
     display: block;
@@ -1187,7 +1187,7 @@ font-size: 12px;
 
     #home-ctas .nav a:hover {
     background:rgba(115, 96, 160, 0.3);
-    border:#A098CA 1px solid;
+    border:#fff 1px solid;
     }
 
     #home-ctas .nav a span {
