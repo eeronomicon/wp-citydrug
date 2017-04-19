@@ -54,7 +54,7 @@
 
       <p>Whether you are a new client or a returning client we will work to help you integrate new prescriptions into your life style. </p>
 
-      <a href="/rx-orders/new-prescriptions/" class="btn btn-cta">Get Started</a>
+      <a href="/contact/contact-us/#hero-submenu" class="btn btn-cta">Get Started</a>
     </div>
   </article>
 
